@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6721388689",
+    "project_id": "kapda-bazaar-394ce",
+    "storage_bucket": "kapda-bazaar-394ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6721388689:android:59dd2fed3737e02544bf30",
+        "android_client_info": {
+          "package_name": "com.example.kapda_bazzar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXzqbl33oFc-K2cU0FFDvYrOr8i01o48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
